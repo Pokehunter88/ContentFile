@@ -1,7 +1,7 @@
 [
    {
       "id":"169313",
-      "title":"If",
+      "title":"If FEFAFEF",
       "description":"Beautiful Whale Tail Uvita Costa Rica",
       "duration":"86",
       "thumbURL":"http:\/\/st1-fs.cdn01.net\/videos\/0000169\/0169313\/thumbs\/0169313__007f.jpg",
@@ -14,7 +14,7 @@
    },
    {
       "id":"169322",
-      "title":"Scuba Diving - Costa Rica",
+      "title":"Scuba Diving - Costa affEFAEF Rica",
       "description":"Scuba Diving - Costa Rica (Playa Ocotal & The Bat Islands)",
       "duration":"205",
       "thumbURL":"http:\/\/st1-fs.cdn01.net\/videos\/0000169\/0169322\/thumbs\/0169322__002f.jpg",
@@ -27,7 +27,7 @@
    },
    {
       "id":"169312",
-      "title":"San Lucas Trip",
+      "title":"San LucaAFAEFAEFEFs Trip",
       "description":"Isla San Lucas, Puntarenas, Costa Rica",
       "duration":"192",
       "thumbURL":"http:\/\/st1-fs.cdn01.net\/videos\/0000169\/0169312\/thumbs\/0169312__003f.jpg",
