@@ -6,7 +6,7 @@
       "duration":"86",
       "thumbURL":"http:\/\/st1-fs.cdn01.net\/videos\/0000169\/0169313\/thumbs\/0169313__007f.jpg",
       "imgURL":"http:\/\/st1-fs.cdn01.net\/videos\/0000169\/0169313\/thumbs\/0169313__007f.jpg",
-      "videoURL":"https:\/\/hk1.shegu.net\/vip\/p1\/movie_mp4_h264\/2024\/6\/9\/64099\/movie.64099.2024.1080p.H264.20240618100802.mp4?KEY1=0KGlOpMYuNhRrs_RYQR7ww&KEY2=1720275252&KEY7=febbox_video_quality_list_v3&KEY8=0",
+      "videoURL":"https://hk1.shegu.net/vip/p1/movie_mp4_h264/2024/6/9/64099/movie.64099.2024.1080p.H264.20240618100802.mp4?KEY1=0KGlOpMYuNhRrs_RYQR7ww&KEY2=1720275252&KEY7=febbox_video_quality_list_v3&KEY8=0",
       "categories":[
          "Costa Rica Islands"
       ],
@@ -14,12 +14,12 @@
    },
    {
       "id":"169322",
-      "title":"Ghostbusters",
+      "title":"Scuba Diving - Costa Rica",
       "description":"Scuba Diving - Costa Rica (Playa Ocotal & The Bat Islands)",
       "duration":"205",
       "thumbURL":"http:\/\/st1-fs.cdn01.net\/videos\/0000169\/0169322\/thumbs\/0169322__002f.jpg",
       "imgURL":"http:\/\/st1-fs.cdn01.net\/videos\/0000169\/0169322\/thumbs\/0169322__002f.jpg",
-      "videoURL":"https:\/\/hk1.shegu.net\/vip\/p1\/movie_mp4_h264\/2016\/4\/4\/474\/movie.474.2016.1080p.H264.20211126102954.mp4?KEY1=8cxZqlx1NxYyjOLLZntaJQ&KEY2=1720275342&KEY7=febbox_video_quality_list_v3&KEY8=0",
+      "videoURL":"http:\/\/edge-vod-media.cdn01.net\/encoded\/0000169\/0169322\/video_1880k\/S6IZ6M1QM.mp4?source=firetv&channel_id=13455",
       "categories":[
          "Costa Rica Underwater"
       ],
@@ -32,7 +32,7 @@
       "duration":"192",
       "thumbURL":"http:\/\/st1-fs.cdn01.net\/videos\/0000169\/0169312\/thumbs\/0169312__003f.jpg",
       "imgURL":"http:\/\/st1-fs.cdn01.net\/videos\/0000169\/0169312\/thumbs\/0169312__003f.jpg",
-      "videoURL":"https:\/\/hk1.shegu.net\/vip\/p1\/movie_mp4_h264\/2016\/4\/4\/474\/movie.474.2016.1080p.H264.20211126102954.mp4?KEY1=8cxZqlx1NxYyjOLLZntaJQ&KEY2=1720275342&KEY7=febbox_video_quality_list_v3&KEY8=0",
+      "videoURL":"http:\/\/edge-vod-media.cdn01.net\/encoded\/0000169\/0169312\/video_1880k\/M0CAAG18G.mp4?source=firetv&channel_id=13454",
       "categories":[
          "Costa Rica Islands"
       ],
