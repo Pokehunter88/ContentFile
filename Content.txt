@@ -5,8 +5,8 @@
       "description":"Beautiful Whale Tail Uvita Costa Rica",
       "duration":"86",
       "thumbURL":"http:\/\/st1-fs.cdn01.net\/videos\/0000169\/0169313\/thumbs\/0169313__007f.jpg",
-      "imgURL":"http:\/\/st1-fs.cdn01.net\/videos\/0000169\/0169313\/thumbs\/0169313__007f.jpg",
-      "videoURL":"https://hk1.shegu.net/vip/p1/movie_mp4_h264/2024/6/9/64099/movie.64099.2024.1080p.H264.20240618100802.mp4?KEY1=0KGlOpMYuNhRrs_RYQR7ww&KEY2=1720275252&KEY7=febbox_video_quality_list_v3&KEY8=0",
+      "imgURL":"http:\/\/hk1.shegu.net\/vip\/p1\/movie_mp4_h264\/2016\/4\/4\/474\/movie.474.2016.1080p.H264.20211126102954.mp4?KEY1=_ETtKMAq7axYdBskI0JPrQ&KEY2=1720276281&KEY7=febbox_video_quality_list_v3&KEY8=0",
+      "videoURL":"",
       "categories":[
          "Costa Rica Islands"
       ],
